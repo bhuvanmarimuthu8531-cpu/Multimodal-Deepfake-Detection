@@ -1,0 +1,6 @@
+{
+  "name": "CYBERNEXUS AI",
+  "description": "Global Cybercrime Intelligence, Multi-Modal Deepfake Forensics, Fraud Detection & Cross-Incident Threat Correlation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
